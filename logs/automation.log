@@ -1,0 +1,18 @@
+09:41:17.186 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Searching for web development courses  --------
+09:41:21.356 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------shows the available web devolpment courses  --------
+09:41:21.529 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------clicking on the language(English) and Level(Beginner) checkboxes--------
+09:41:24.948 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------filtered courses is shown -------
+09:41:25.060 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Clicking on the first course--------
+09:41:26.256 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------First course details page shown--------
+09:41:26.464 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Collectiong the title,rating,duration of First Course--------
+09:41:32.471 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Data collected, prints on the console and written on excel file--------
+09:41:32.613 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Clicking on the Second course--------
+09:41:32.777 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Second course details page shown--------
+09:41:33.005 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Collectiong the title,rating,duration of Second Course--------
+09:42:12.631 [main] INFO  testCases.TC1_CourseraSearchWebDev - ------Data collected, prints on the console and written on excel file--------
+09:42:23.067 [main] INFO  testCases.TC2_Languagelearn - ------Clcking on explore button and selecting Language learning option--------
+09:42:29.388 [main] INFO  testCases.TC2_Languagelearn - ------ shows the language learn courses--------
+09:42:29.540 [main] INFO  testCases.TC2_Languagelearn - ------For each Level it will count the number of courses available for different languages --------
+09:42:35.925 [main] INFO  testCases.TC2_Languagelearn - ------data taken, prints on console and also written on excel file------
+09:44:29.000 [main] INFO  testCases.TC3_enterprises - ----- forEnterprises method runs succesful------
+09:44:32.197 [main] INFO  testCases.TC3_enterprises - ------error message is shown------
